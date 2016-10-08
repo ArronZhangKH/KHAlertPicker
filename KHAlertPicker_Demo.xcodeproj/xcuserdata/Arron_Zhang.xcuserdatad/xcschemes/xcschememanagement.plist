@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>KHAlertPicker_Demo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>BC7E355D1D9D4E4E00B775B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BC7E35761D9D4E4F00B775B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BC7E35811D9D4E4F00B775B5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
