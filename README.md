@@ -1,5 +1,5 @@
 #KHAlertPicker
-###中文版本
+###[中文版本](https://github.com/ArronZhangKH/KHAlertPicker/blob/master/README-CN.md#khalertpicker)
 ###AlertController + UIPickerView = KHAlertPicker
 - small volume
 - support custom UIPickerView
